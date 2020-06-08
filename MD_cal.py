@@ -15,8 +15,8 @@ def mahalanobis_distance(p, distr):
     # p: a point
     # distr : a distribution
 
-    # covariance shape
-    cov = np.cov(distri, rowvar=False)
+    # covariance matrix
+    cov = np.cov(distr, rowvar=False)
 
     # average of the points in distr
     avg_distri = np.average(distr, axis=0)

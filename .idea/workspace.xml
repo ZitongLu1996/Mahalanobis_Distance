@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0a33ef8-99ef-4ce0-b4ea-c9aec8a83b04" name="Default Changelist" comment="" />
+    <list default="true" id="c0a33ef8-99ef-4ce0-b4ea-c9aec8a83b04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MD_cal.py" beforeDir="false" afterPath="$PROJECT_DIR$/MD_cal.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MD_cal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="25" selection-end-column="14" />
               <folding>
                 <element signature="e#149#167#0" expanded="true" />
               </folding>
@@ -34,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -47,6 +52,7 @@
     <option name="width" value="1237" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -127,15 +133,16 @@
       <workItem from="1591497494237" duration="270000" />
       <workItem from="1591498025180" duration="322000" />
       <workItem from="1591498396697" duration="459000" />
-      <workItem from="1591498930791" duration="1270000" />
+      <workItem from="1591498930791" duration="1547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3740000" />
+    <option name="totallyTimeSpent" value="4017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1237" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26610878" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -166,8 +173,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MD_cal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="25" selection-end-column="14" />
           <folding>
             <element signature="e#149#167#0" expanded="true" />
           </folding>
